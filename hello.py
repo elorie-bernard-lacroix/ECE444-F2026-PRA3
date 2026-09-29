@@ -72,7 +72,7 @@ def chat():
             reply = f'Your name is {remembered_name}.'
         else:
             reply = 'You have not told me your name yet.'
-    elif 'hello' or 'hi' or 'hey' in lower_message:
+    elif 'hello' in lower_message or 'hi' in lower_message or 'hey' in lower_message:
         reply = 'Hello!'
     else:
         reply = "I don't understand. Try telling me your name, then ask what your name is."
