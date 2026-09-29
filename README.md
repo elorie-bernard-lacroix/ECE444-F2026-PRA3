@@ -13,5 +13,5 @@ Activity 1.4
 <img width="710" height="281" alt="image" src="https://github.com/user-attachments/assets/94849a78-45be-4a8b-b224-b1e8dd267252" />
 
 
-Activity 2.4
+Activity 2.4  
 <img width="458" height="224" alt="image" src="https://github.com/user-attachments/assets/65967d70-8dd3-406d-bcdb-358a05da65d9" />
